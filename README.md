@@ -14,17 +14,13 @@ I am interested in microbial ecology, bioinformatics, computational biology, sen
 <img src="languages/Python-logo-notext.png" width="17px"/> Python ⭐️⭐️
 
 ### I speak:
-##### 🇪🇸Spanish
-Native
+##### 🇪🇸Spanish (Native)
 
-##### 🇬🇧English
-Bilingual (C2)
+##### 🇬🇧English (Bilingual)
 
-##### 🇫🇷French
-Intermediate (B2)
+##### 🇫🇷French (Intermediate B2)
 
-##### 🇩🇪German
-(B1)
+##### 🇩🇪German (Beginner B1)
 
 <!--
 **mariamadrid19/mariamadrid19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
