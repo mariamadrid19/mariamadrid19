@@ -4,7 +4,7 @@ I'm a Biologist with a minor in Bioinformatics and Microbiologist from Colombia 
 
 My Biology bachelor thesis looked at the electrophysiological response of *Rhodnius prolixus* to a potential insect repellent. We used electronantennography and a newly developed compound to study the physiological response of the insect's antennae. 
 
-I am interested in microbial ecology, computational biology, sensorial ecology, and insect physiology. My Master's thesis project will focus on comparing the genomes of short- and long-winged *Pogonus* beetles.
+I am interested in microbial ecology, bioinformatics, computational biology, sensorial ecology, and insect physiology. My Master's thesis project will focus on comparing the genomes of short- and long-winged *Pogonus* beetles.
 
 
 <!--
