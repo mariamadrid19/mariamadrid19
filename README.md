@@ -1,6 +1,6 @@
 ### Hi there, my name is Maria 🪲🧬🔬
 
-I'm a Biologist and Microbiologist from Colombia currently pursuing a master's degree in Biology at KU Leuven (Belgium). My research is currently focused on the metagenomic, metabolomic, and organoleptic profiles of newly developed fermentation processes in Colombia ☕️🇨🇴. 
+I'm a Biologist with a minor in Bioinformatics and Microbiologist from Colombia currently pursuing a master's degree in Biology at KU Leuven (Belgium). My research is currently focused on the metagenomic, metabolomic, and organoleptic profiles of newly developed fermentation processes in Colombia ☕️🇨🇴. 
 
 My Biology bachelor thesis looked at the electrophysiological response of *Rhodnius prolixus* to a potential insect repellent. We used electronantennography and a newly developed compound to study the physiological response of the insect's antennae. 
 
