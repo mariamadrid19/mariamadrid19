@@ -9,7 +9,7 @@ I am interested in microbial ecology, bioinformatics, computational biology, sen
 ### Languages
 <img src="languages/R_logo.svg.png" width="17px"/> R ⭐️⭐️⭐️⭐️⭐️
 
-<img src="languages/full_colored_dark.png" width="17px"/> Command line ⭐️⭐️⭐️⭐️
+<img src="languages/img_462515.png" width="17px"/> Shell ⭐️⭐️⭐️⭐️
 
 <img src="languages/Python-logo-notext.png" width="17px"/> Python ⭐️⭐️
 
