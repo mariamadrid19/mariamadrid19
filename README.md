@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 my name is Maria
+
+I'm a Biologist and Microbiologist from Colombia currently pursuing a master's degree in Biology at KU Leuven (Belgium). My research is currently focused on the metagenomic, metabolomic, and organoleptic profiles of newly developed fermentation processes in Colombia. 
+
+My Biology bachelor thesis looked at the electrophysiological response of Rhodnius prolixus to a potential insect repellent. We used electronantennography and a newly developed compound to study the physiological response of the insect's antennae. 
+
+I am interested in microbial ecology, computational biology, sensorial ecology, and insect physiology. My Master's thesis project will focus on comparing the genomes of short- and long-winged Pogonus beetles.
+
 
 <!--
 **mariamadrid19/mariamadrid19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
