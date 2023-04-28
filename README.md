@@ -14,16 +14,16 @@ I am interested in microbial ecology, bioinformatics, computational biology, sen
 <img src="languages/Python-logo-notext.png" width="17px"/> Python ⭐️⭐️
 
 ### I speak:
-#### 🇪🇸Spanish
+##### 🇪🇸Spanish
 Native
 
-#### 🇬🇧English
+##### 🇬🇧English
 Bilingual (C2)
 
-#### 🇫🇷French
+##### 🇫🇷French
 Intermediate (B2)
 
-#### 🇩🇪German
+##### 🇩🇪German
 (B1)
 
 <!--
