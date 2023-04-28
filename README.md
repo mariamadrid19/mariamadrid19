@@ -7,7 +7,9 @@ My Biology bachelor thesis looked at the electrophysiological response of *Rhodn
 I am interested in microbial ecology, bioinformatics, computational biology, sensorial ecology, and insect physiology. My Master's thesis project will focus on comparing the genomes of short- and long-winged *Pogonus* beetles.
 
 <img src="languages/R_logo.svg.png" width="17px"/> R ⭐️⭐️⭐️⭐️⭐️
+
 <img src="languages/full_colored_dark.png" width="17px"/> Command line ⭐️⭐️⭐️⭐️
+
 <img src="languages/Python-logo-notext.png" width="17px"/> Python ⭐️⭐️
 
 <!--
