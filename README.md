@@ -1,10 +1,10 @@
 ### Hi there, my name is Maria 🪲🧬🔬
 
-I'm a Biologist with a minor in Bioinformatics and Microbiologist from Colombia currently pursuing a master's degree in Biology at KU Leuven (Belgium). My research is currently focused on the metagenomic, metabolomic, and organoleptic profiles of newly developed fermentation processes in Colombia. 
+I'm a Biologist with a minor in Bioinformatics and Microbiologist from Colombia currently pursuing a master's degree in Biology at KU Leuven (Belgium). My master's thesis is focused on genome assembly, curation, annotation, and pangenomics of _Pogonus chalceus_ genomes.
 
-My Biology bachelor thesis looked at the electrophysiological response of *Rhodnius prolixus* to a potential insect repellent. We used electronantennography and a newly developed compound to study the physiological response of the insect's antennae. 
+I am also studying the metagenomic, metabolomic, and organoleptic profiles of newly developed coffee fermentation processes in Colombia.
 
-I am interested in microbial ecology, bioinformatics, computational biology, sensorial ecology, and insect physiology. My Master's thesis project will focus on comparing the genomes of short- and long-winged *Pogonus* beetles.
+I am interested in microbial ecology, bioinformatics, computational biology, sensorial ecology, and insect physiology.
 
 ### Programming languages:
 <img src="languages/R_logo.svg.png" width="17px"/> R ⭐️⭐️⭐️⭐️⭐️
