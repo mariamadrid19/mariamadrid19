@@ -9,7 +9,7 @@ I am interested in microbial ecology, eco-evo genomics, sensorial ecology, and i
 ### Programming languages:
 <img src="languages/R_logo.svg.png" width="17px"/> R ⭐️⭐️⭐️⭐️⭐️
 
-<img src="languages/img_462515.png" width="17px"/> Shell ⭐️⭐️⭐️⭐️
+<img src="languages/img_462515.png" width="17px"/> Bash ⭐️⭐️⭐️⭐️
 
 <img src="languages/Python-logo-notext.png" width="17px"/> Python ⭐️⭐️
 
