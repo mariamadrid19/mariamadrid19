@@ -20,7 +20,9 @@ I am interested in microbial ecology, eco-evo genomics, sensorial ecology, and i
 
 🇫🇷French (Intermediate B2)
 
-🇩🇪German (Beginner B1)
+🇩🇪German (Beginner A2)
+
+🇳🇱Dutch (Beginner A1)
 
 <!--
 **mariamadrid19/mariamadrid19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
