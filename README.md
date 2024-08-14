@@ -2,7 +2,7 @@
 
 I'm a Biologist with a minor in Bioinformatics and Microbiologist from Colombia with master's degree in Biology. Currently pursuing a PhD in Evolutionary Biology at KU Leuven (Belgium), which focuses on the ecological and evolutionary genomics of _Pogonus chalceus_.
 
-I simulatenously study the metagenomic, metabolomic, and organoleptic profiles of coffee fermentations in Colombia.
+I simultaneously study the metagenomic, metabolomic, and organoleptic profiles of coffee fermentations in Colombia.
 
 I am interested in microbial ecology, eco-evo genomics, sensorial ecology, and insect physiology.
 
