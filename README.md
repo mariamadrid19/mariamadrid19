@@ -13,6 +13,8 @@ I am interested in microbial ecology, eco-evo genomics, sensorial ecology, and i
 
 <img src="languages/Python-logo-notext.png" width="17px"/> Python ⭐️⭐️
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamadrid19&layout=compact)
+
 ### I speak:
 🇪🇸Spanish (Native)
 
