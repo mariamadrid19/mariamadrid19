@@ -4,7 +4,7 @@ I'm a Biologist with a minor in Bioinformatics and Microbiologist from Colombia 
 
 I simultaneously study the metagenomic, metabolomic, and organoleptic profiles of coffee fermentations in Colombia.
 
-I am interested in microbial ecology, eco-evo genomics, sensorial ecology, and insect physiology.
+I am interested in microbial ecology, eco-evolutionary genomics, sensorial ecology, and insect physiology.
 
 ### Programming languages:
 <img src="languages/R_logo.svg.png" width="17px"/> R ⭐️⭐️⭐️⭐️⭐️
