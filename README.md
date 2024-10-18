@@ -1,6 +1,6 @@
 ### Hi there, my name is Maria (she/her) 🪲🧬
 
-I'm a Biologist with a minor in Bioinformatics and Microbiologist from Colombia with master's degree in Biology. PhD student at KU Leuven (Belgium), focusing on the ecological and evolutionary genomics of _Pogonus chalceus_.
+I'm a Biologist with a minor in Bioinformatics and Microbiologist from Colombia with master's degree in Biology. I'm currently pursuing a PhD at KU Leuven (Belgium), focusing on the ecological and evolutionary genomics of _Pogonus chalceus_.
 
 I simultaneously study the metagenomic, metabolomic, and organoleptic profiles of coffee fermentations in Colombia.
 
