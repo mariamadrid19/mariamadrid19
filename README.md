@@ -22,7 +22,7 @@ I am interested in microbial ecology, eco-evolutionary genomics, sensorial ecolo
 
 🇩🇪German (Beginner A2)
 
-🇳🇱Dutch (Beginner A1)
+🇳🇱Dutch (Beginner A2)
 
 <!--
 **mariamadrid19/mariamadrid19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
